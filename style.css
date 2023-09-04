@@ -860,6 +860,10 @@ select:focus {
     margin: 2rem 0 2rem;
 }
 
+.fet-icon img{
+    max-height: 80px;
+    max-width: 80px;
+}
 .fet-wrapper .fet-box .fet-info p {
     margin-bottom: -1rem;
 }
