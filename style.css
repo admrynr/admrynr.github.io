@@ -1080,6 +1080,22 @@ select:focus {
 	text-transform: capitalize;
 }
 
+.service-wrapper .service-box .service-info ul {
+	margin-bottom: 0;
+	padding-left: 4.5rem;
+}
+
+.service-wrapper .service-box .service-info ul li {
+	list-style-type: circle !important;
+}
+
+.service-wrapper .service-box .why-img img {
+	max-height: 80px;
+    max-width: 80px;
+    margin:auto;
+}
+
+
 .service-wrapper .service-box .service-info p{
 	margin-bottom: 0;
 	padding-left: 4.5rem;
