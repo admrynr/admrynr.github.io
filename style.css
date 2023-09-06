@@ -1688,6 +1688,10 @@ select:focus {
     margin-bottom: 1.5rem;
 }
 
+.benefit-btm-wrapper .benefit-btm-box .benefit-btm-info h4 span{
+    color: var(--theme-color);
+}
+
 .benefit-btm-wrapper .benefit-btm-box .benefit-btm-info p {
     margin-bottom: 0;
 }
