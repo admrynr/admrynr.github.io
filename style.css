@@ -1627,6 +1627,35 @@ select:focus {
 	padding-bottom: 3rem;
 }
 
+.benefit-right .event-right-img {
+    position: relative;
+    z-index: 1;
+	padding-bottom: 3rem;
+    margin:auto;
+}
+
+.benefit-right .event-right-img img{
+    width:100%;
+}
+
+.hidden-content {
+    display: none;
+  }
+
+.event-text p {
+    margin-top: 1rem;
+    text-align: justify;
+    text-justify: inter-word;
+}
+
+.event-text ul {
+    margin-left:2rem;
+}
+
+.event-text ul li {
+    list-style-type: disc;
+}
+
 .benefit-right-img::before {
     position: absolute;
     content: '';
