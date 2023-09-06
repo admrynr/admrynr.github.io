@@ -850,7 +850,7 @@ select:focus {
 	border-top: 2px solid var(--theme-color);
     text-align: center;
     padding: 5rem 3rem;
-    -webkit-box-shadow: 0px 0px 54px 0px rgba(151, 151, 151, 0.08);
+    -webkit-box-shadow: 0px 0px 54px 0px rgba(151, 151, 151, 0.12);
     box-shadow: 0px 0px 54px 0px rgba(151, 151, 151, 0.08);
 	position: relative;
 	z-index: 1;
