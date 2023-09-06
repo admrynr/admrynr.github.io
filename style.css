@@ -1988,6 +1988,7 @@ select:focus {
     border-radius: 50%;
     border: 1px dashed var(--theme-color);
     padding: 5px;
+    max-height: 70px;
 }
 
 
